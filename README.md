@@ -22,16 +22,13 @@
 ## Coding Profiles:
 
 <p align="left">
-<a href="https://leetcode.com/u/dgokulbecs/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="zoyaaax" height="30" width="40" /></a>
-
-<a href="https://www.hackerrank.com/profile/dgokulbecs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="zoyaaax" height="30" width="40" /></a>
-
-  <a href="https://www.naukri.com/code360/profile/Gokul_d56" target="blank"><img align="center" src="https://files.codingninjas.in/new-cn-logos-1-1711622387.svg" alt="zoyaaax" height="30" width="40" /></a>
-  
-<a href="https://www.codechef.com/users/gokul_046" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shristythakur" height="30" width="40" /></a>
-
-<a href="https://www.geeksforgeeks.org/user/dgokulbecs/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shristythb4aj" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/dgokulbecs/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/dgokulbecs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /></a>
+<a href="https://www.naukri.com/code360/profile/Gokul_d56" target="blank"><img align="center" src="https://files.codingninjas.in/new-cn-logos-1-1711622387.svg" alt="Naukri Code360" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/gokul_046" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/dgokulbecs/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="Geeks for Geeks" height="30" width="40" /></a>
 </p>
+
 
 
 # Tech Stack:
